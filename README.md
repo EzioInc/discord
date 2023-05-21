@@ -1,2 +1,2 @@
-# discord
-The Discord Bot Of The Ezio Project
+# Ezio Discord Bot
+## *For the code go to the master branch*
